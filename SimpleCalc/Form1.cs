@@ -11,7 +11,9 @@ namespace SimpleCalc
         {
             // •Ï”‚ÌéŒ¾
             int valueLeft;
+            // •Ï”‚ÌéŒ¾
             int valueRight;
+            // •Ï”‚ÌéŒ¾
             int valueAnswer;
 
             // ’l‚Ìæ‚è‚İ
